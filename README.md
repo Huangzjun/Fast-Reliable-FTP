@@ -42,26 +42,5 @@ Custom Fast and Reliable Protocol Flowchart
 - We have reserved the first 5 bytes in the packet for sequence numbers and done flag
 
 
-## Multithreading
-
-<br>
-<p align="center">
-<img src="imgs/Multithreading.jpg" width="700" height="400"/> 
-<br>
-Threads used to implement Custom Fast and Reliable Protocol
-</p>
-<br>
-
-## Result
-
-<br>
-<p align="center">
-<img src="imgs/Result.jpg" width="700" height="400"/> 
-<br>
-Testing Results for Custom Fast and Reliable Protocol Flowchart
-</p>
-<br>
-
-
 
 # Fast-Reliable-FTP
